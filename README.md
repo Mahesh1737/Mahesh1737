@@ -15,6 +15,7 @@ I'm Mahesh, a Frontend developer from India. Welcome to my GitHub profile!
 
 - [DATA-structure](https://github.com/Mahesh1737/Data-structure)
 - [TY sem-6](https://github.com/Mahesh1737/TY-Sem-6)
+- [Mini-Project](https://github.com/Mahesh1737/Mini-Project)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
